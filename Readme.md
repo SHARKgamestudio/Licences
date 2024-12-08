@@ -8,7 +8,7 @@ behind the licences are 3 letters.
 
 ### Second Letter :
 - A : Any Redistribution
-- N : Non Commercial Only
+- N : Non-Commercial Only
 
 ### Third Letter :
 - C : Credits Required
